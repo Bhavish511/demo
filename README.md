@@ -1,4 +1,4 @@
 # demo
 first git repo.
 <br>
-Author - Bhavish Kumar
+Author - Bhavish Kumar(BSCS FAST)
